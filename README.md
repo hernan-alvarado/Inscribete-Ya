@@ -1,3 +1,3 @@
-## Página Inscríbete Ya!
+# Página Inscríbete Ya!
 
-# Link de repositorio: 
+## Link de repositorio: 
